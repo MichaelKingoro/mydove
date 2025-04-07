@@ -1,0 +1,7 @@
+<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="80" fill="#f2f2f2"/>
+  <text x="20" y="50" font-family="Verdana" font-size="30" fill="#2e7d32">Soko</text>
+  <text x="115" y="50" font-family="Verdana" font-size="30" fill="#f57c00">Lima</text>
+  <circle cx="280" cy="40" r="8" fill="#2e7d32" />
+  <circle cx="260" cy="40" r="8" fill="#f57c00" />
+</svg>
